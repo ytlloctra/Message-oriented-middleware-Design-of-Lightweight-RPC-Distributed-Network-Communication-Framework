@@ -1,0 +1,13 @@
+/home/yt/mprpc_yt/build/CMakeFiles/rebuild_cache.dir
+/home/yt/mprpc_yt/build/CMakeFiles/edit_cache.dir
+/home/yt/mprpc_yt/build/src/CMakeFiles/rebuild_cache.dir
+/home/yt/mprpc_yt/build/src/CMakeFiles/edit_cache.dir
+/home/yt/mprpc_yt/build/src/CMakeFiles/mprpc.dir
+/home/yt/mprpc_yt/build/example/CMakeFiles/rebuild_cache.dir
+/home/yt/mprpc_yt/build/example/CMakeFiles/edit_cache.dir
+/home/yt/mprpc_yt/build/example/callee/CMakeFiles/rebuild_cache.dir
+/home/yt/mprpc_yt/build/example/callee/CMakeFiles/edit_cache.dir
+/home/yt/mprpc_yt/build/example/callee/CMakeFiles/provider.dir
+/home/yt/mprpc_yt/build/example/caller/CMakeFiles/rebuild_cache.dir
+/home/yt/mprpc_yt/build/example/caller/CMakeFiles/edit_cache.dir
+/home/yt/mprpc_yt/build/example/caller/CMakeFiles/consumer.dir
